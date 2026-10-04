@@ -17,6 +17,7 @@ def test_consensus_binds_every_stored_finding():
     assert 'prompt_comparative' in SOURCE
     for field in ('omitted, unsupported, exposed, reason_pairs, full_digest, and public_digest must match exactly', 'every omission requires a disposition'):
         assert field in SOURCE
+    assert 'Every index is zero-based' in SOURCE
 
 def test_lifecycle_and_source_guards_are_present():
     for method in ('register_record', 'audit_release', 'get_record'): assert f'def {method}' in SOURCE
