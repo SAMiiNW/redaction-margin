@@ -1,0 +1,39 @@
+{
+  "recordId": "DISCLOSURE-1791076213",
+  "transactions": {
+    "register": "0xd2c24f709a8d46c47497f9e6781ce4d3f3b6d20929e0cf226fc8a1551b89e629",
+    "audit": "0x5857aa604562db7530745dc2a83d9592f2e4429f2409ba80d4c0050f0fadd6d5"
+  },
+  "state": {
+    "allowed_reasons": [
+      "PERSONAL_DATA"
+    ],
+    "auditor": "0x013A0745a3b2DbF87f4AB377266fCcb7e6eEC88A",
+    "exposed_indexes": [],
+    "full_digest": "9d93cef20feec7898d1397acaec8b34bf7fda7a1d93745af306076c91d01bb08",
+    "full_url": "https://raw.githubusercontent.com/SAMiiNW/redaction-margin/ac0c63867eef9f008d83b7ca58ab3005aa73acba/evidence/full-record.md",
+    "id": "DISCLOSURE-1791076213",
+    "labels": [
+      "Service desk hours",
+      "Applicant contact and internal case number",
+      "Appeal deadline",
+      "Accessibility assistance"
+    ],
+    "omitted_indexes": [
+      1
+    ],
+    "owner": "0xCAFA30BF94D4fb01146588a1b7901BD85E7DbD0f",
+    "public_digest": "c235831eb57979738dbfdfc22c7f4e17e9a46b65ed162fead8965ff63a26fce7",
+    "public_url": "https://cdn.jsdelivr.net/gh/SAMiiNW/redaction-margin@ac0c63867eef9f008d83b7ca58ab3005aa73acba/evidence/public-release.md",
+    "reason_pairs": [
+      [
+        1,
+        0
+      ]
+    ],
+    "state": "MINIMAL",
+    "title": "Permit desk public release",
+    "unsupported_indexes": []
+  },
+  "walletDisclosure": "Both wallets and both evidence documents are operator-controlled technical fixtures."
+}

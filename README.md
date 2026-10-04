@@ -28,3 +28,11 @@ genvm-lint check contracts/contract.py
 ```
 
 The included documents are operator-authored technical fixtures. They demonstrate source retrieval and classification, not an actual confidential disclosure.
+
+## StudioNet receipt
+
+- Contract: [`0xC8514c10BE347e14C96F47b524786232bC972321`](https://explorer-studio.genlayer.com/address/0xC8514c10BE347e14C96F47b524786232bC972321)
+- Deployment: [`0x85d1ab1bf1a6acb40934f49fc6f2f01c8fcafd35e92402c347cf460ce3d58b82`](https://explorer-studio.genlayer.com/transactions/0x85d1ab1bf1a6acb40934f49fc6f2f01c8fcafd35e92402c347cf460ce3d58b82)
+- Live audit: [`0x5857aa604562db7530745dc2a83d9592f2e4429f2409ba80d4c0050f0fadd6d5`](https://explorer-studio.genlayer.com/transactions/0x5857aa604562db7530745dc2a83d9592f2e4429f2409ba80d4c0050f0fadd6d5)
+- Result: `DISCLOSURE-1791076213`, omitted index `[1]`, reason pair `[[1,0]]`, `MINIMAL`.
+- Source SHA-256: `0e07006d8e00bba5531a7330f656234a92a9fe29ff05ff200414d4f287289a8f`, exact deployed match.

@@ -7,4 +7,4 @@
 | Every omission receives a disposition | `_audit` | consensus surface test | PASS |
 | All stored findings and digests reach validator agreement | `_audit` | exact principle assertion | PASS |
 | Exposure outranks over-redaction | `release_state` | three-outcome test | PASS |
-| Reviewed source deployed and exercised on StudioNet | deployment evidence | added after network verification | UNVERIFIED |
+| Reviewed source deployed and exercised on StudioNet | deployment evidence | exact source match and live `MINIMAL` record | PASS |
